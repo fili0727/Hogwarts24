@@ -12,7 +12,6 @@ public class Application{
      this.userInterface = new UserInterface(studentController, teacherController);
     }
 
-//forvirret
 
   public static void main(String[] args) {
 
