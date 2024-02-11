@@ -1,0 +1,11 @@
+package edu.hogwarts.data;
+
+public enum EmpType {
+  TEACHER,
+  HEADMASTER,
+  STAFF,
+  HEAD_OF_GRYFFINDOR_HOUSE,
+  HEAD_OF_HUFFLEPUFF_HOUSE,
+  HEAD_OF_RAVENCLAW_HOUSE,
+  HEAD_OF_SLYTHERIN_HOUSE
+}
